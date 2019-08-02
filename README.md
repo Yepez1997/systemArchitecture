@@ -15,6 +15,7 @@ or the techology associated with that product / service.
 * [Airbnb Payments](https://medium.com/airbnb-engineering/scaling-airbnbs-payment-platform-43ebfc99b324)
 * [Uber Alerting Ecosystem](https://eng.uber.com/observability-at-scale/)
 * [Twitter Message Queues](https://blog.twitter.com/engineering/en_us/a/2015/handling-five-billion-sessions-a-day-in-real-time.html)
+* [Airbnb Search Backend](https://medium.com/airbnb-engineering/nebula-as-a-storage-platform-to-build-airbnbs-search-backends-ecc577b05f06)
 
 # **Technologies 💾💽**
 `Common Technologies`.
@@ -32,6 +33,7 @@ Helpful Websites, Youtube channels, Git Repos, Etc.
 
 # **Other 🤖**
  * [Dynamo Paper Simplified](https://www.dynamodbguide.com/the-dynamo-paper/)
+ * [MemSQL In Memory Database Concepts](https://docs.memsql.com/concepts/v6.8/concepts-overview/)
 
 
     
