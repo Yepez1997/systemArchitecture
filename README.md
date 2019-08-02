@@ -1,5 +1,6 @@
-# **System Architecture / Design** 📚👨‍💻👩‍💻🔥[In Progress]
+# **System Architecture / Design** 📚👨‍💻👩‍💻🔥 
 #### Below are just some of the resources I used while studying systems
+#### In Progress
 
 
 # **Academic Papers**📚
