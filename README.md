@@ -1,7 +1,5 @@
 # **System Architecture / Design** 📚👨‍💻👩‍💻🔥 
-#### Below are just some of the resources I used while studying systems
-#### In Progress
-
+#### Below are just some of the resources I use while studying systems
 
 # **Academic Papers**📚
 Although this is not a requirement, knowing how companies made certain design choices gives a **good comprehensive** understanding on the decisions, and trade offs you can make designing a system 
