@@ -7,6 +7,7 @@ Although this is not a requirement, knowing how companies made certain design ch
 * [Facebook TAO Paper](https://www.usenix.org/system/files/conference/atc13/atc13-bronson.pdf)
 * [Google Map Reduce Paper](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf)
 * [Amazon Dynamo DB Paper](https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf)
+* [Google Big Table](https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf)
 * [SEDA Architecture](http://www.sosp.org/2001/papers/welsh.pdf)
 
 # **Blogs 👨‍💻👩‍💻**
