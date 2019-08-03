@@ -24,6 +24,7 @@ or the techology associated with that product / service.
 * [Kafka](https://kafka.apache.org/)
 * [Redis AWS](https://aws.amazon.com/redis/)
 * [Elastic Search](https://www.elastic.co/products/elasticsearch)
+* [RabitMQ](https://www.rabbitmq.com/)
 
 # **Web Resources 💎**
 Helpful Websites, Youtube channels, Git Repos, Etc. 
