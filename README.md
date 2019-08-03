@@ -17,6 +17,7 @@ or the techology associated with that product / service.
 * [Twitter Message Queues](https://blog.twitter.com/engineering/en_us/a/2015/handling-five-billion-sessions-a-day-in-real-time.html)
 * [Airbnb Search Backend](https://medium.com/airbnb-engineering/nebula-as-a-storage-platform-to-build-airbnbs-search-backends-ecc577b05f06)
 * [Pintrest Kafka Streams](https://medium.com/@Pinterest_Engineering/using-kafka-streams-api-for-predictive-budgeting-9f58d206c996)
+* [Tinder GeoShard Part 1](https://medium.com/tinder-engineering/geosharded-recommendations-part-1-sharding-approach-d5d54e0ec77a)
 
 # **Technologies 💾💽**
 `Common Technologies`.
