@@ -43,6 +43,7 @@ Helpful Websites, Youtube channels, Git Repos, Etc.
  * [Rabbit MQ In 5 Minutes](https://www.youtube.com/watch?v=deG25y_r6OY)
  * [Microservice Architecture](https://microservices.io/patterns/index.html)
  * [Content Distribution Network](https://www.akamai.com/us/en/resources/content-distribution-network.jsp)
+ * [Transaction Isolation Levels](https://docs.microsoft.com/en-us/sql/odbc/reference/develop-app/transaction-isolation-levels?view=sql-server-2017)
  
  
  
