@@ -35,11 +35,12 @@ Helpful Websites, Youtube channels, Git Repos, Etc.
 * [Designing Data Intensive Applications](https://pdfs.semanticscholar.org/24f1/4e3b30012c2bc7e3abbdb16e2b3365d6f920.pdf)
 * [Gaurav Sen's Youtube](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
 * [System Design Primer](https://github.com/donnemartin/system-design-primer)
+* [This Is My Architecture AWS](https://www.youtube.com/playlist?list=PLhr1KZpdzukdeX8mQ2qO73bg6UKQHYsHb)
 
 # **Other 🤖**
  * [Dynamo Paper Simplified](https://www.dynamodbguide.com/the-dynamo-paper/)
  * [MemSQL In Memory Database Concepts](https://docs.memsql.com/concepts/v6.8/concepts-overview/)
- * [CAP Theorom Blog](https://mwhittaker.github.io/blog/an_illustrated_proof_of_the_cap_theorem/)
+ * [CAP Theorem Blog](https://mwhittaker.github.io/blog/an_illustrated_proof_of_the_cap_theorem/)
  * [Rabbit MQ In 5 Minutes](https://www.youtube.com/watch?v=deG25y_r6OY)
  * [Microservice Architecture](https://microservices.io/patterns/index.html)
  * [Content Distribution Network](https://www.akamai.com/us/en/resources/content-distribution-network.jsp)
