@@ -35,6 +35,7 @@ Helpful Websites, Youtube channels, Git Repos, Etc.
 * [Designing Data Intensive Applications](https://pdfs.semanticscholar.org/24f1/4e3b30012c2bc7e3abbdb16e2b3365d6f920.pdf)
 * [Gaurav Sen's Youtube](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
 * [System Design Primer](https://github.com/donnemartin/system-design-primer)
+* [CassandraDB Architecture](https://docs.datastax.com/en/archived/cassandra/3.0/cassandra/architecture/archIntro.html)
 
 # **Other 🤖**
  * [Dynamo Paper Simplified](https://www.dynamodbguide.com/the-dynamo-paper/)
