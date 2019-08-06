@@ -27,6 +27,7 @@ or the techology associated with that product / service.
 * [Elastic Search](https://www.elastic.co/products/elasticsearch)
 * [RabitMQ](https://www.rabbitmq.com/)
 * [Memcached](https://memcached.org/)
+* [Hbase](https://hbase.apache.org/)
 
 # **Web Resources 💎**
 Helpful Websites, Youtube channels, Git Repos, Etc. 
