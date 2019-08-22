@@ -47,6 +47,7 @@ Helpful Websites, Youtube channels, Git Repos, Etc.
  * [Content Distribution Network](https://www.akamai.com/us/en/resources/content-distribution-network.jsp)
  * [Transaction Isolation Levels](https://docs.microsoft.com/en-us/sql/odbc/reference/develop-app/transaction-isolation-levels?view=sql-server-2017)
  * [CassandraDB Architecture](https://docs.datastax.com/en/archived/cassandra/3.0/cassandra/architecture/archIntro.html)
+ * [Airflow Videos](https://www.youtube.com/watch?v=AHMm1wfGuHE&list=PLYizQ5FvN6pvIOcOd6dFZu3lQqc6zBGp2)
  
  
  
