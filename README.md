@@ -19,6 +19,7 @@ or the techology associated with that product / service.
 * [Airbnb Search Backend](https://medium.com/airbnb-engineering/nebula-as-a-storage-platform-to-build-airbnbs-search-backends-ecc577b05f06)
 * [Pintrest Kafka Streams](https://medium.com/@Pinterest_Engineering/using-kafka-streams-api-for-predictive-budgeting-9f58d206c996)
 * [Tinder Geoshard Part 1](https://medium.com/tinder-engineering/geosharded-recommendations-part-1-sharding-approach-d5d54e0ec77a)
+* [UReplicator Uber Apach Kafka](https://eng.uber.com/ureplicator/)
 
 # **Technologies 💾💽**
 `Common Technologies`.
