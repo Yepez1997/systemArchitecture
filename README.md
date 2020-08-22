@@ -54,6 +54,9 @@ Helpful Websites, Youtube channels, Git Repos, Etc.
  * [Airflow Videos](https://www.youtube.com/watch?v=AHMm1wfGuHE&list=PLYizQ5FvN6pvIOcOd6dFZu3lQqc6zBGp2)
  * [Modern Networks ENVOY](https://blog.envoyproxy.io/introduction-to-modern-network-load-balancing-and-proxying-a57f6ff80236)
  
+ # **Academic Courses**📚
+ * [Distributed Systems MIT](https://pdos.csail.mit.edu/6.824/)
+ * [Advanced DB Carnegie Mellon](https://15721.courses.cs.cmu.edu/spring2020/)
  
  
 
