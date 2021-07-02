@@ -56,7 +56,7 @@ Helpful Websites, Youtube channels, Git Repos, Etc.
  * [CassandraDB Architecture](https://docs.datastax.com/en/archived/cassandra/3.0/cassandra/architecture/archIntro.html)
  * [Airflow Videos](https://www.youtube.com/watch?v=AHMm1wfGuHE&list=PLYizQ5FvN6pvIOcOd6dFZu3lQqc6zBGp2)
  * [Modern Networks ENVOY](https://blog.envoyproxy.io/introduction-to-modern-network-load-balancing-and-proxying-a57f6ff80236)
- 
+ * [AWS Distributed Sytems Library](https://aws.amazon.com/builders-library/?cards-body.sort-by=item.additionalFields.sortDate&cards-body.sort-order=desc&awsf.filter-content-category=*all&awsf.filter-content-type=*all&awsf.filter-content-level=*all) 
  # **Academic Courses**📚
  * [Distributed Systems MIT](https://pdos.csail.mit.edu/6.824/)
  * [Advanced DB Carnegie Mellon](https://15721.courses.cs.cmu.edu/spring2020/)
