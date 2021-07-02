@@ -23,16 +23,16 @@ or the techology associated with that product / service.
 * [Airbnb Payments](https://medium.com/airbnb-engineering/scaling-airbnbs-payment-platform-43ebfc99b324)
 * [Uber Alerting Ecosystem](https://eng.uber.com/observability-at-scale/)
 * [Twitter Message Queues](https://blog.twitter.com/engineering/en_us/a/2015/handling-five-billion-sessions-a-day-in-real-time.html)
-* [Airbnb Search Backend](https://medium.com/airbnb-engineering/nebula-as-a-storage-platform-to-build-airbnbs-search-backends-ecc577b05f06)
-* [Pintrest Kafka Streams](https://medium.com/@Pinterest_Engineering/using-kafka-streams-api-for-predictive-budgeting-9f58d206c996)
+* [Airbnb's Search Backend](https://medium.com/airbnb-engineering/nebula-as-a-storage-platform-to-build-airbnbs-search-backends-ecc577b05f06)
+* [Pintrest's Kafka Streams](https://medium.com/@Pinterest_Engineering/using-kafka-streams-api-for-predictive-budgeting-9f58d206c996)
 * [Tinder Geoshard Part 1](https://medium.com/tinder-engineering/geosharded-recommendations-part-1-sharding-approach-d5d54e0ec77a)
 * [UReplicator Uber Apach Kafka](https://eng.uber.com/ureplicator/)
-* [Bandaid](https://dropbox.tech/infrastructure/meet-bandaid-the-dropbox-service-proxy)
+* [Dropbox Service Proxy: Bandaid](https://dropbox.tech/infrastructure/meet-bandaid-the-dropbox-service-proxy)
 * [NGINX -> ENVOY Dropbox](https://dropbox.tech/infrastructure/how-we-migrated-dropbox-from-nginx-to-envoy)
 * [Blue Team Rust Memory Safety](https://tiemoko.com/blog/blue-team-rust/)
 * [Dropbox Task Scheduler](https://dropbox.tech/infrastructure/asynchronous-task-scheduling-at-dropbox)
 * [Uber's Michaelangeo](https://eng.uber.com/michelangelo-machine-learning-platform/)
-* [Facebook Hyperloglog](https://engineering.fb.com/2018/12/13/data-infrastructure/hyperloglog/)
+* [Facebook's Hyperloglog](https://engineering.fb.com/2018/12/13/data-infrastructure/hyperloglog/)
 
 # **Technologies 💾💽**
 `Common Technologies`.
@@ -54,7 +54,7 @@ Helpful Websites, Youtube channels, Git Repos, Etc.
 
 # **Other 🤖**
  * [Dynamo Paper Simplified](https://www.dynamodbguide.com/the-dynamo-paper/)
- * [MemSQL In Memory Database Concepts](https://docs.memsql.com/concepts/v6.8/concepts-overview/)
+ * [SingleStore In Memory Database Concepts (formerly MemSQL)](https://docs.memsql.com/concepts/v6.8/concepts-overview/)
  * [CAP Theorem Blog](https://mwhittaker.github.io/blog/an_illustrated_proof_of_the_cap_theorem/)
  * [Rabbit MQ In 5 Minutes](https://www.youtube.com/watch?v=deG25y_r6OY)
  * [Microservice Architecture](https://microservices.io/patterns/index.html)
