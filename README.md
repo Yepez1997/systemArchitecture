@@ -24,6 +24,8 @@ or the techology associated with that product / service.
 * [Bandaid](https://dropbox.tech/infrastructure/meet-bandaid-the-dropbox-service-proxy)
 * [NGINX -> ENVOY Dropbox](https://dropbox.tech/infrastructure/how-we-migrated-dropbox-from-nginx-to-envoy)
 * [Blue Team Rust Memory Safety](https://tiemoko.com/blog/blue-team-rust/)
+* [Dropbox Task Scheduler](https://dropbox.tech/infrastructure/asynchronous-task-scheduling-at-dropbox)
+* [Uber Michaelangeo](https://eng.uber.com/michelangelo-machine-learning-platform/)
 
 # **Technologies 💾💽**
 `Common Technologies`.
