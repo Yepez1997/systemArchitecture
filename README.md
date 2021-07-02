@@ -16,6 +16,7 @@ Although this is not a requirement, knowing how companies made certain design ch
 * [Cassandra DB](https://www.cs.cornell.edu/projects/ladis2009/papers/lakshman-ladis2009.pdf)
 * [Hadoop File System](https://storageconference.us/2010/Papers/MSST/Shvachko.pdf)
 * [Google Spanner](https://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf)
+* [Zookeeper](https://www.usenix.org/legacy/event/atc10/tech/full_papers/Hunt.pdf)
 
 # **Blogs 👨‍💻👩‍💻**
 `Company Blogs`. Note the naming is the actual name of the system the company uses, 
