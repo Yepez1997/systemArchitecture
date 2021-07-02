@@ -8,14 +8,14 @@ Although this is not a requirement, knowing how companies made certain design ch
 * [Google File Systems](https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf)
 * [Facebook TAO Paper](https://www.usenix.org/system/files/conference/atc13/atc13-bronson.pdf)
 * [Google Map Reduce](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf)
-* [Amazon Dynamo DB](https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf)
+* [Amazon Dynamo](https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf)
 * [Google Big Table](https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf)
 * [SEDA Architecture](http://www.sosp.org/2001/papers/welsh.pdf)
 * [Lamport Clocks](https://lamport.azurewebsites.net/pubs/time-clocks.pdf)
 * [Google Chubby](https://static.googleusercontent.com/media/research.google.com/en//archive/chubby-osdi06.pdf)
 * [Cassandra DB](https://www.cs.cornell.edu/projects/ladis2009/papers/lakshman-ladis2009.pdf)
 * [Hadoop File System](https://storageconference.us/2010/Papers/MSST/Shvachko.pdf)
-* [Google Spanner Database](https://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf)
+* [Google Spanner](https://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf)
 
 # **Blogs 👨‍💻👩‍💻**
 `Company Blogs`. Note the naming is the actual name of the system the company uses, 
