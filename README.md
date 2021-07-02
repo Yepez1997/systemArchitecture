@@ -30,8 +30,8 @@ or the techology associated with that product / service.
 * [UReplicator Uber Apach Kafka](https://eng.uber.com/ureplicator/)
 * [Dropbox's Service Proxy: Bandaid](https://dropbox.tech/infrastructure/meet-bandaid-the-dropbox-service-proxy)
 * [Dropbox's migration from nginx to envoy](https://dropbox.tech/infrastructure/how-we-migrated-dropbox-from-nginx-to-envoy)
-* [Blue Team Rust Memory Safety](https://tiemoko.com/blog/blue-team-rust/)
-* [Dropbox Task Scheduler](https://dropbox.tech/infrastructure/asynchronous-task-scheduling-at-dropbox)
+* [Rust: Blue Team Memory Safety](https://tiemoko.com/blog/blue-team-rust/)
+* [Dropbox's Task Scheduler](https://dropbox.tech/infrastructure/asynchronous-task-scheduling-at-dropbox)
 * [Uber's Michaelangeo](https://eng.uber.com/michelangelo-machine-learning-platform/)
 * [Facebook's Hyperloglog](https://engineering.fb.com/2018/12/13/data-infrastructure/hyperloglog/)
 
