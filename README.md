@@ -32,6 +32,7 @@ or the techology associated with that product / service.
 * [Dropbox's migration from nginx to envoy](https://dropbox.tech/infrastructure/how-we-migrated-dropbox-from-nginx-to-envoy)
 * [Rust: Blue Team Memory Safety](https://tiemoko.com/blog/blue-team-rust/)
 * [Dropbox's Task Scheduler](https://dropbox.tech/infrastructure/asynchronous-task-scheduling-at-dropbox)
+* [Dropbox's Edge Store](https://dropbox.tech/infrastructure/reintroducing-edgestore)
 * [Uber's Michaelangeo](https://eng.uber.com/michelangelo-machine-learning-platform/)
 * [Facebook's Hyperloglog](https://engineering.fb.com/2018/12/13/data-infrastructure/hyperloglog/)
 
