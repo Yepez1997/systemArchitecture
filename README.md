@@ -4,7 +4,7 @@
 # **Academic Papers**📚
 Although this is not a requirement, knowing how companies made certain design choices gives a **good comprehensive** understanding on the decisions, and trade offs you can / should make designing a system.
 
-* [General Distrubuted Systems Papers](http://dsrg.pdos.csail.mit.edu/papers/)
+* [General Distributed Systems Papers](http://dsrg.pdos.csail.mit.edu/papers/)
 * [Google File Systems](https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf)
 * [Facebook TAO Paper](https://www.usenix.org/system/files/conference/atc13/atc13-bronson.pdf)
 * [Google Map Reduce](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf)
