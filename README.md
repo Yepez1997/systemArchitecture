@@ -21,15 +21,15 @@ Although this is not a requirement, knowing how companies made certain design ch
 # **Blogs 👨‍💻👩‍💻**
 `Company Blogs`. Note the naming is the actual name of the system the company uses, 
 or the techology associated with that product / service.
-* [Airbnb Payments](https://medium.com/airbnb-engineering/scaling-airbnbs-payment-platform-43ebfc99b324)
-* [Uber Alerting Ecosystem](https://eng.uber.com/observability-at-scale/)
-* [Twitter Message Queues](https://blog.twitter.com/engineering/en_us/a/2015/handling-five-billion-sessions-a-day-in-real-time.html)
+* [Airbnb's Payments](https://medium.com/airbnb-engineering/scaling-airbnbs-payment-platform-43ebfc99b324)
+* [Uber's Alerting Ecosystem](https://eng.uber.com/observability-at-scale/)
+* [Twitter's Message Queues](https://blog.twitter.com/engineering/en_us/a/2015/handling-five-billion-sessions-a-day-in-real-time.html)
 * [Airbnb's Search Backend](https://medium.com/airbnb-engineering/nebula-as-a-storage-platform-to-build-airbnbs-search-backends-ecc577b05f06)
 * [Pintrest's Kafka Streams](https://medium.com/@Pinterest_Engineering/using-kafka-streams-api-for-predictive-budgeting-9f58d206c996)
-* [Tinder Geoshard Part 1](https://medium.com/tinder-engineering/geosharded-recommendations-part-1-sharding-approach-d5d54e0ec77a)
+* [Tinder's Geoshard Part 1](https://medium.com/tinder-engineering/geosharded-recommendations-part-1-sharding-approach-d5d54e0ec77a)
 * [UReplicator Uber Apach Kafka](https://eng.uber.com/ureplicator/)
-* [Dropbox Service Proxy: Bandaid](https://dropbox.tech/infrastructure/meet-bandaid-the-dropbox-service-proxy)
-* [NGINX -> ENVOY Dropbox](https://dropbox.tech/infrastructure/how-we-migrated-dropbox-from-nginx-to-envoy)
+* [Dropbox's Service Proxy: Bandaid](https://dropbox.tech/infrastructure/meet-bandaid-the-dropbox-service-proxy)
+* [Dropbox's migration from nginx to envoy](https://dropbox.tech/infrastructure/how-we-migrated-dropbox-from-nginx-to-envoy)
 * [Blue Team Rust Memory Safety](https://tiemoko.com/blog/blue-team-rust/)
 * [Dropbox Task Scheduler](https://dropbox.tech/infrastructure/asynchronous-task-scheduling-at-dropbox)
 * [Uber's Michaelangeo](https://eng.uber.com/michelangelo-machine-learning-platform/)
