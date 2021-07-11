@@ -35,6 +35,7 @@ or the techology associated with that product / service.
 * [Dropbox's Edge Store](https://dropbox.tech/infrastructure/reintroducing-edgestore)
 * [Uber's Michaelangeo](https://eng.uber.com/michelangelo-machine-learning-platform/)
 * [Facebook's Hyperloglog](https://engineering.fb.com/2018/12/13/data-infrastructure/hyperloglog/)
+* [Influx DB Anti Entropy](https://www.influxdata.com/blog/eventual-consistency-anti-entropy/)
 
 # **Technologies 💾💽**
 `Common Technologies`.
