@@ -37,7 +37,7 @@ or the techology associated with that product / service.
 * [Facebook's Hyperloglog](https://engineering.fb.com/2018/12/13/data-infrastructure/hyperloglog/)
 * [Influx DB Anti Entropy](https://www.influxdata.com/blog/eventual-consistency-anti-entropy/)
 * [TF-IDF](https://arpitbhayani.me/blogs/idf)
-* [Uber's transition from DynamoDB -> Docustore](https://eng.uber.com/dynamodb-to-docstore-migration/)
+* [Uber's transition from DynamoDB -> Docstore](https://eng.uber.com/dynamodb-to-docstore-migration/)
 
 # **Technologies 💾💽**
 `Common Technologies`.
